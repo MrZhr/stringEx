@@ -15,9 +15,6 @@
 			"src\\": "src/"
         }
     },
-    "require": {
-        "php": "^7.3.4"
-    },
     "repositories": {
         "packagist": {
             "type": "composer",
