@@ -13,10 +13,10 @@
     "autoload":{
         "psr-4": {
 			"src\\": "src/"
-        },
+        }
     },
     "require": {
-        "php": "^5.4.5",
+        "php": "^5.4.5"
     },
     "repositories": {
         "packagist": {
