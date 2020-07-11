@@ -15,7 +15,9 @@
 			"src\\": "src/"
         },
     },
-    "require": {},
+    "require": {
+        "php": "^5.4.5",
+    },
     "repositories": {
         "packagist": {
             "type": "composer",
