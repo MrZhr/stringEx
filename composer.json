@@ -12,11 +12,11 @@
     "minimum-stability": "dev",
     "autoload":{
         "psr-4": {
-                    "src\\": "src/"
-                },
+			"src\\": "src/"
+        },
     },
     "require": {},
-     "repositories": {
+    "repositories": {
         "packagist": {
             "type": "composer",
             "url": "https://mirrors.aliyun.com/composer/"
