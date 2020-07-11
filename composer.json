@@ -1,0 +1,25 @@
+{
+    "name": "meng/stringex",
+    "description": "test string ex",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "MrZhr",
+            "email": "haoran.zeng@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4": {
+                    "src\\": "src/"
+                },
+    },
+    "require": {},
+     "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
